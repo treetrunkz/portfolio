@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react-scripts": "2.1.1",
+    "react-scripts": "5.0.1",
     "react-scroll-rotate": "0.0.7"
   },
   "scripts": {
